@@ -4,7 +4,7 @@ function Navbar(){
         <>
             <div className="container">
 
-            <nav className=" navbar-expand-lg bg-light navbar-light">
+            <nav className=" navbar-expand-lg bg-primary navbar-primary mb-2">
             <a className="navbar-brand"> <h3>employee</h3>
                 
             </a>
@@ -14,7 +14,7 @@ function Navbar(){
                 <li className="nav-item"><a className="nav-link p-2" href="#">update employee</a></li>
                 <li className="nav-item"><a className="nav-link p-2" href="#">View employee</a></li>
             </ul>
-            
+
         </nav>
             </div>
         
